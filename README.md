@@ -12,4 +12,5 @@ StudentPortal a dynamic website
 * ojdbc6
 * Oracle - 11.2.0
 * Apache Tomcat - 9.0
-* HTML CSS Javascript Bootstrap4
+* Javascript 
+* Bootstrap4
