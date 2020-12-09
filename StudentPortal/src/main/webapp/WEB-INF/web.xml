@@ -1,0 +1,57 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <filter>
+  	<filter-name>RegisterFilter</filter-name>
+  	<display-name>RegisterFilter</display-name>
+  	<description></description>
+  	<filter-class>com.student.web.RegisterFilter</filter-class>
+  </filter>
+  <filter-mapping>
+  	<filter-name>RegisterFilter</filter-name>
+  	<url-pattern>/Register</url-pattern>
+  </filter-mapping>
+  <servlet>
+  	<servlet-name>Login</servlet-name>
+  	<display-name>Login</display-name>
+  	<description></description>
+  	<servlet-class>com.student.web.Login</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Logout</servlet-name>
+  	<display-name>Logout</display-name>
+  	<description></description>
+  	<servlet-class>com.student.web.Logout</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Register</servlet-name>
+  	<display-name>Register</display-name>
+  	<description></description>
+  	<servlet-class>com.student.web.Register</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>FileUpload</servlet-name>
+  	<display-name>FileUpload</display-name>
+  	<description></description>
+  	<servlet-class>com.student.web.FileUpload</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Login</servlet-name>
+  	<url-pattern>/Login</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Logout</servlet-name>
+  	<url-pattern>/Logout</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Register</servlet-name>
+  	<url-pattern>/Register</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>FileUpload</servlet-name>
+  	<url-pattern>/FileUpload</url-pattern>
+  </servlet-mapping>
+</web-app>
