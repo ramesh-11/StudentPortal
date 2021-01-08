@@ -30,4 +30,11 @@ The active button shows your present sight. Activity dropbox contents <strong>Vi
   <img src="./image/1.StudentPortalHome.png" name="image-name">
   <img src="./image/2.about.png" name="image-name">
   <img src="./image/3.activityBar.png" name="image-name">
+  <img src="./image/4.videos.png" name="image-name">
+  <img src="./image/5.tasks.png" name="image-name">
+  <img src="./image/6.upload.png" name="image-name">
+  <img src="./image/7.clock.png" name="image-name">
+  <img src="./image/8.register.png" name="image-name">
+  <img src="./image/9.login.png" name="image-name">
+  <img src="./image/profile.png" name="image-name">
 </details>
