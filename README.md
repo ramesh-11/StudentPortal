@@ -25,7 +25,7 @@ The active button shows your present sight. Activity dropbox contents <strong>Vi
 * It has also a Clock page to show time and date.
 
 <details>
-  <summary>View Student Portal</summary>
+  <summary>View Student Portal</summary><details>
   <summary>Home</summary>
   <img src="./image/1.StudentPortalHome.png" name="image-name">
   <img src="./image/2.about.png" name="image-name">
