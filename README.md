@@ -23,7 +23,6 @@ The active button shows your present sight. Activity dropbox contents <strong>Vi
 * It has <strong>the prevention of the back button after Logout.</strong>
 * You can <strong>upload files on the server side using the upload page.</strong>
 * It has also a Clock page to show time and date.
-## Website
 
 <details>
   <summary>The title of the image group</summary><details>
