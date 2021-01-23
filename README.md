@@ -1,4 +1,3 @@
-
 # StudentPortal
 StudentPortal a dynamic website
 ## MVC using Servlet | JSP | JDBC | Maven
