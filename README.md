@@ -37,6 +37,6 @@ The active button shows your present sight. Activity dropbox contents <strong>Vi
   <img src="./image/8.register.png" name="image-name">
   <img src="./image/9.login.png" name="image-name">
   <img src="./image/profile.png" name="image-name">
-  <summary>Setup</summary><details>
+  <summary>SetUp</summary><details>
   <img src="./image/studentPortal.png" name="image-name">
 </details>
